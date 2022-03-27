@@ -1,0 +1,39 @@
+*{
+    margin: 0; 
+    padding: 0;
+}
+
+body {
+    background: #808080;
+}
+
+.div_A {
+    height: 500px;
+    width: 50vw;
+    background: white;
+    border: 10px black dotted;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.div_B {
+    height: 50px;
+    width: 30%;
+    background: yellow; 
+}
+
+.div_C {
+    height: 100px;
+    width: 30%; 
+    background: rgb(255, 69, 0);
+}
+
+.div_D {
+    background: rgb(0, 128, 0); 
+    color: white; 
+    font-size: 30px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
